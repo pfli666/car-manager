@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/pfli666/car-manager/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [计算机组成原理](https://github.com/pfli666/car-manager/architecture/index.md)
+### [计算机组成原理](https://pfli666.github.io/pfli666/car-manager/architecture/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
