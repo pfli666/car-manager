@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## 我的学习笔记
 
 You can use the [editor on GitHub](https://github.com/pfli666/car-manager/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [计算机组成原理](https://github.com/pfli666/car-manager/architecture/index.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
